@@ -1,0 +1,28 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  
+"scripts": {
+  "start": "web-dev-server --node-resolve --open --watch",
+  "build": "tsc",
+  "watch": "tsc --watch"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliasudnyk-lgtm/goit-advancedjs-hw-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nataliasudnyk-lgtm/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/nataliasudnyk-lgtm/goit-advancedjs-hw-05#readme",
+  "devDependencies": {
+    "@web/dev-server": "^1.0.0"
+  }
+}
